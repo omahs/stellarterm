@@ -22,7 +22,7 @@ It is currently under active development and is not yet finished. See it in acti
 To use the testnet, simply add `#testnet` or `/testnet` to the url to activate it. To exit, refresh the page where the url is not `/testnet`.
 
 ## Deployment
-The project is hosted on GitHub pages in the [stellarterm/stellarterm.github.io](https://github.com/stellarterm/stellarterm.github.io/) repository. The client is wrapped into a single html file and it's sha 256 sum is recorded on each git commit.
+The project is hosted on GitHub pages in the [stellarterm/stellarterm.github.io](https://github.com/stellarterm/stellarterm.github.io/) repository. The client is wrapped into a single html file and its sha 256 sum is recorded on each git commit.
 
 ## Client development instructions
 ### Prerequisites
